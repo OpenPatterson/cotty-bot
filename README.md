@@ -1,1 +1,1 @@
-# coty-bot
+# cotty-bot

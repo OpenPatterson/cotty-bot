@@ -1,0 +1,4 @@
+openai
+langchain
+jupyter_client
+ipykernel
